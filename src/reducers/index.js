@@ -2,10 +2,10 @@ import { combineReducers } from 'redux';
 
 const songsReducer = () => {
   return [
-    { title: 'Lateralus', duration: '4:05' },
-    { title: 'One Armed Scissor', duration: '2:30' },
-    { title: 'Chop Suey', duration: '3:15' },
-    { title: 'Blood & Thunder', duration: '1:45' }
+    { title: 'Lateralus', duration: '9:22' },
+    { title: 'One Armed Scissor', duration: '4:20' },
+    { title: 'Chop Suey', duration: '3:30' },
+    { title: 'Blood and Thunder', duration: '3:48' }
   ];
 };
 
